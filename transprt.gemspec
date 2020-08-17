@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency('rest-client', '~> 2.0')
   gem.add_dependency('json', '~> 2.0')
   gem.add_development_dependency('bundler', '~> 1.12')
-  gem.add_development_dependency('rake', '~> 11.2')
+  gem.add_development_dependency('rake', '~> 12.3')
   gem.add_development_dependency('minitest', '~> 5.8')
   gem.add_development_dependency('webmock', '~> 2.1')
 end
