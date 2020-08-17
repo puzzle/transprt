@@ -22,7 +22,7 @@ GEM
     mime-types-data (3.2016.0521)
     minitest (5.9.0)
     netrc (0.11.0)
-    rake (11.2.2)
+    rake (12.3.3)
     rest-client (2.0.0)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
@@ -42,7 +42,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.12)
   minitest (~> 5.8)
-  rake (~> 11.2)
+  rake (~> 12.3)
   transprt!
   webmock (~> 2.1)
 
